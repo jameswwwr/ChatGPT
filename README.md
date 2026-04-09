@@ -13,9 +13,13 @@
 - **功能与应用**：全面了解 [**ChatGPT**](https://ai.lanjingchat.com/) 能做什么，从学习到工作，提升您的效率。
 **【推荐】国内最佳ChatGPT体验入口：**
 
-ChatGPT 中文版：[https://xsimplechat.com/](https://xsimplechat.com/)
+ChatGPT 中文版：[https://lazymanchat.com/](https://lazymanchat.com/)
 
-ChatGPT 镜像网站：[https://aihuoya.com/](https://aihuoya.com/)
+ChatGPT 镜像网站：[https://chat.huoyachat.com/](https://chat.huoyachat.com/)
+
+ChatGPT 中文版：[https://chatgpt-cnblog.com/](https://chatgpt-cnblog.com/)
+
+ChatGPT 镜像网站：[https://chatgpt-gpt.com/](https://chatgpt-gpt.com/)
 
 ## **1. ChatGPT 究竟是什么？**
 
